@@ -15,6 +15,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurkaramahmutoglu&" alt="nurkaramahmutoglu" /></p>
 
 
-
-
 ![snake gif](https://github.com/nurkaramahmutoglu/nurkaramahmutoglu/blob/output/github-contribution-grid-snake.gif)
